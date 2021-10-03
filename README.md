@@ -4,7 +4,7 @@ Vytvořte program `matrix_print.py`, který vypíše matici prvek po prvku. Mati
 ```
 matrix = (
     (1, -2, 5, 20),
-    (0, 2, 3, 4),
+    (0, 2, 3, 400),
     (100, 2, 3, 4)
 )
 ```
@@ -23,7 +23,7 @@ Pozor výstup programu je testován automaticky, proto dodržujte přesný form�
 0
 2
 3
-4
+400
 100
 2
 3
