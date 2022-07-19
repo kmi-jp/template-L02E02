@@ -29,3 +29,10 @@ Pozor výstup programu je testován automaticky, proto dodržujte přesný form�
 3
 4
 ```
+
+## Lokální testování
+Funkčnost řešení ověříte následujícím příkazem:
+
+```bash
+pytest tests.py
+```
